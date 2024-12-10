@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1GYZKLjz74yOYTiN0mfimkHvl4bYIaYXB?usp=sharing
+
+Все 16 задач выполняются на Correct, попытался починить код, чтобы заработала последняя ячейка, но ничего не получилось
